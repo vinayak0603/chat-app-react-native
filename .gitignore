@@ -10,9 +10,9 @@ ios/Pods/
 *.lock
 
 # Metro & OS
-__generated__/
-.expo/
-.expo-shared/
-.cache/
-.DS_Store
-.vscode/
+#__generated__/
+#.expo/
+#.expo-shared/
+#.cache/
+#.DS_Store
+#.vscode/
